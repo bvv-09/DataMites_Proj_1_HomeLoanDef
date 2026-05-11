@@ -3,6 +3,9 @@ Predictive modelling to identify the factors / customer segments that are eligib
 
 Programming language used: Python
 
+## Dataset
+Download the dataset here: https://drive.google.com/drive/folders/1hUemeNI1y3hQTIYpAffammuYQlUCdOIF?usp=sharing
+
 Processed and integrated 7 relational datasets using Python and Pandas by performing aggregations, feature transformations, and hierarchical merges to construct customer-level analytical data. 
 
 Conducted exploratory data analysis (EDA), handled missing values and outliers, applied categorical encoding techniques, and engineered domain-driven features to prepare data for classification modeling. 
